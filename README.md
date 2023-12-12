@@ -11,6 +11,6 @@ Debido a que la versión del chrome es 120.0.6099.71 (Build oficial) (64 bits) s
 	https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win64/chromedriver-win64.zip
 No se hace uso de la descarga automática por recomendación se decarga el driver mencionado que permite utilizar para todas las nuevas versiones de Chrome desde la 117
 
-[comment]: <> (Queda pendiente gráficas de resultados)
+Queda pendiente gráficas de resultados y explicación de lo obtenido.
 
 Versión del ide > IntelliJ IDEA 2023.3
